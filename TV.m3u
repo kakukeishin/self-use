@@ -1,5 +1,4 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/"
-
 #中国央视
 #EXTINF:-1 group-title="中国央视" tvg-id="cctv1" tvg-logo="CCTV1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -37,7 +36,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="中国央视" tvg-id="cctv17" tvg-logo="CCTV17.png",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
 #中国教育
 #EXTINF:-1 group-title="中国教育" tvg-id="cetv1" tvg-logo="CETV1.png",CETV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -47,7 +45,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 group-title="中国教育" tvg-id="cetv4" tvg-logo="CETV4.png",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
 #辽宁地区
 #EXTINF:-1 group-title="辽宁地区" tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
@@ -57,7 +54,6 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226763/index.m3
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226761/index.m3u8
 #EXTINF:-1 group-title="辽宁地区" tvg-id="280 tvg-name="辽宁经济" tvg-logo="Liaoning7.png",辽宁经济
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3u8
-
 #省市卫视
 #EXTINF:-1 group-title="省市卫视" tvg-id="anhui" tvg-logo="Anhui.png",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -129,7 +125,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 group-title="省市卫视" tvg-id="zhejiang" tvg-logo="Zhejiang.png",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-
 #港·澳·台
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png",TVB千禧經典
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
@@ -147,7 +142,6 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",人間衛視
 https://stream1.freetv.fun/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8
-
 #电视剧频道
 #EXTINF:-1 group-title="电视剧频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -179,7 +173,6 @@ https://lunbo.freetv.top/yy/1354930932
 https://lunbo.freetv.top/yy/1353426319
 #EXTINF:-1 group-title="电视剧频道" tvg-logo="",射雕英雄传
 https://lunbo.freetv.top/yy/1354210357
-
 #电影频道
 #EXTINF:-1  group-title="电影频道" tvg-logo="",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -189,7 +182,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-
 #动画频道
 #EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
@@ -209,7 +201,6 @@ http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-61150972
 http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="动画频道" tvg-logo="",七龙珠
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
-
 #体育频道
 #EXTINF:-1 group-title="体育频道" tvg-logo="",睛彩篮球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -225,11 +216,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",搏击比赛
 http://39.134.65.64:80/wh7f454c46tw1893525708_2141550803/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1554599666&from=1&hms_devid=125
-
 #游戏频道
 #EXTINF:-1 group-title="游戏频道" tvg-logo="https://wx3.sinaimg.cn/large/66fb66f7ly1hpoxb3xbltj21nz0u076g.jpg",哒啵电竞
 http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?icpid=88888888&RTS=1554599646&from=1&hms_devid=127
-
 #NewTV
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",NewTV 超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
@@ -247,7 +236,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",NewTV 健康有约
 http://39.134.65.66:80/wh7f454c46tw1756984900_1336875915/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8?icpid=88888888&RTS=1554599529&from=1&hms_devid=126
-
 #English
 #EXTINF:-1 group-title="English" tvg-id="cgtn" tvg-logo="CGTN.png",CGTN
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
@@ -319,7 +307,7 @@ https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-id="MTV2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png",MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
-
+#日本語
 #EXTINF:-1 group-title="日本語" tvg-id="fuji_tv" tvg-logo="https://www.fujitv.co.jp/company/img/fblogo.jpg",フジテレビ
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="tv_asahi" tvg-logo="https://encycolorpedia.com/companies/japan/tv-asahi.png",テレビ朝日
