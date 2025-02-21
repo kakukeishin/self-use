@@ -193,9 +193,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 group-title="电视剧频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",东北热剧
+#EXTINF:-1 group-title="电视剧频道" tvg-name="东北热剧" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",东北热剧
 http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1554599523&from=1&hms_devid=691
-#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",东北热剧(备用)
+#EXTINF:-1 group-title="电视剧频道" tvg-name="东北热剧" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",东北热剧
 http://39.135.135.12:80/wh7f454c46tw1933119583_617512298/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=694
 #EXTINF:-1 group-title="电视剧频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",海外剧场
 http://39.134.65.68:80/wh7f454c46tw1780045664_-196684341/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1554599552&from=1&hms_devid=133
@@ -244,9 +244,9 @@ http://1.94.31.214:35455/yy/1382735626
 #EXTINF:-1 group-title="动画频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png", 海贼王
 http://1.94.31.214:35455/huya/16913382
 #体育频道
-#EXTINF:-1 group-title="体育频道" tvg-logo="",睛彩篮球
+#EXTINF:-1 group-title="体育频道" tvg-name="睛彩篮球" tvg-logo="",睛彩篮球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="",睛彩篮球(备用)
+#EXTINF:-1 group-title="体育频道" tvg-name="睛彩篮球" tvg-logo="",睛彩篮球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="",睛彩竞技
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -258,7 +258,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",搏击比赛
 http://39.134.65.64:80/wh7f454c46tw1893525708_2141550803/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1554599666&from=1&hms_devid=125
-
 #游戏频道
 #EXTINF:-1 group-title="游戏频道" tvg-logo="https://wx3.sinaimg.cn/large/66fb66f7ly1hpoxb3xbltj21nz0u076g.jpg",哒啵电竞
 http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?icpid=88888888&RTS=1554599646&from=1&hms_devid=127
