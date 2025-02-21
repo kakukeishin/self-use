@@ -46,14 +46,16 @@ http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 group-title="中国教育" tvg-id="cetv4" tvg-logo="CETV4.png",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #辽宁地区
-#EXTINF:-1 group-title="辽宁地区" tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
+#EXTINF:-1 group-title="辽宁地区" tvg-id="liaoningweishi" tvg-logo="liaoning.png",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="辽宁地区" tvg-id="278" tvg-name="辽宁教育青少" tvg-logo="Liaoning3.png",辽宁教育青少
+#EXTINF:-1 group-title="辽宁地区" tvg-id="liaoningjiaoyuqingshao" tvg-logo="Liaoning3.png",辽宁教育青少
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226763/index.m3u8
-#EXTINF:-1 group-title="辽宁地区" tvg-id="279" tvg-name="辽宁生活" tvg-logo="Liaoning4.png",辽宁生活
+#EXTINF:-1 group-title="辽宁地区" tvg-id="liaoningshenghuo" tvg-logo="Liaoning4.png",辽宁生活
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226761/index.m3u8
-#EXTINF:-1 group-title="辽宁地区" tvg-id="280 tvg-name="辽宁经济" tvg-logo="Liaoning7.png",辽宁经济
+#EXTINF:-1 group-title="辽宁地区" tvg-id="liaoningjingji" tvg-logo="Liaoning7.png",辽宁经济
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3u8
+#EXTINF:-1 group-title="辽宁地区" tvg-id="liaoningtiyu" tvg-logo="Liaoning6.png", 辽宁体育
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #省市卫视
 #EXTINF:-1 group-title="省市卫视" tvg-id="anhui" tvg-logo="Anhui.png",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -130,8 +132,34 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png",TVB星河
 https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
 https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+http://mzitv.cn:32/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",翡翠台
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+#EXTINF:-1 group-title="港·澳·台" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港·澳·台" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港·澳·台" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png",凤凰卫视
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港·澳·台" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png",凤凰卫视
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",澳視澳門
 https://stream1.freetv.fun/3dbc0c4f5a30db23205251267e990c6b43cddf4bf8c4b911159d6803f08600da.ctv
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png",澳亞衛視
@@ -142,6 +170,14 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",人間衛視
 https://stream1.freetv.fun/ab7bcf5a18958aaf322e01631bd9d031db56960aeabbb526a8781fbe1c1f1ba3.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港·澳·台" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png",东森超视
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="港·澳·台" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png",东森超视
+http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #电视剧频道
 #EXTINF:-1 group-title="电视剧频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -193,14 +229,20 @@ http://39.134.65.5:80/wh7f454c46tw1733608636_1684221022/ottrrs.hl.chinamobile.co
 https://lunbo.freetv.top/yy/1353937086
 #EXTINF:-1 group-title="动画频道" tvg-logo="",海绵宝宝
 http://1.94.31.214:35455/huya/11352919
-#EXTINF:-1 group-title="动画频道" tvg-logo="",中华小当家
-http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 group-title="动画频道" tvg-logo="",猫和老鼠
 http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="动画频道" tvg-logo="",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 group-title="动画频道" tvg-logo="",蜡笔小新
 http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="动画频道" tvg-logo="",七龙珠
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png", 哆啦A梦
+http://1.94.31.214:35455/huya/11601963
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png", 灌篮高手
+http://1.94.31.214:35455/yy/1382735626
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png", 海贼王
+http://1.94.31.214:35455/huya/16913382
 #体育频道
 #EXTINF:-1 group-title="体育频道" tvg-logo="",睛彩篮球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -216,9 +258,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",搏击比赛
 http://39.134.65.64:80/wh7f454c46tw1893525708_2141550803/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1554599666&from=1&hms_devid=125
+
 #游戏频道
 #EXTINF:-1 group-title="游戏频道" tvg-logo="https://wx3.sinaimg.cn/large/66fb66f7ly1hpoxb3xbltj21nz0u076g.jpg",哒啵电竞
 http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?icpid=88888888&RTS=1554599646&from=1&hms_devid=127
+#EXTINF:-1 group-title="游戏频道" tvg-name="斗鱼和平精英" tvg-id="斗鱼和平精英" tvg-logo="https://live.zbds.top/logo/斗鱼和平精英.png", 和平精英
+http://dns.yiandrive.com:15907/douyu/999
 #NewTV
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://pic.iask.cn/fimg/722975079166.jpg",NewTV 超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
