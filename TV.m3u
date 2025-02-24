@@ -128,7 +128,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 group-title="省市卫视" tvg-id="zhejiang" tvg-logo="Zhejiang.png",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #港·澳·台
-#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png",TVB千禧經典
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png",TVB千禧經典台
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
 #EXTINF:-1 group-title="港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png",TVB星河
 https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
