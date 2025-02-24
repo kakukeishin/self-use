@@ -368,31 +368,31 @@ http://vthanh.utako.moe/NHK_E/index.m3u8
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="ntv" tvg-logo="https://www.kindpng.com/picc/m/650-6501513_ntv-japan-nippon-television-network-system-hd-png.png",NTV
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="bs11" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/8/20810.jpg",BS11
-http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="日本語" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/fb.jpg",BS NTV
+http://luong.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="日本語" tvg-id="nhk_bsp4k" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/NHK-Logo.png",NHK BS4K
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="tbs" tvg-logo="https://connected-robotics.com/wp-content/uploads/2019/04/TBS.jpg",TBS 
 http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="日本語" tvg-id="bs11" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/8/20810.jpg",BS11
+http://vthanh.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="tokyo_mx" tvg-logo="https://www.logotypes101.com/logos/870/256F543813B5921B597A9F5C78821E4A/tokyomx.jpg_.png",TOKYO MX1
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="at-x" tvg-logo="https://www.at-x.com/images/common/logo.png",AT-X
+#EXTINF:-1 group-title="日本語" tvg-name="AT-X" tvg-id="at-x" tvg-logo="https://www.at-x.com/images/common/logo.png",AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="日本語" tvg-name="AT-X" tvg-id="at-x" tvg-logo="https://www.at-x.com/images/common/logo.png",AT-X
+http://luong.utako.moe/at-x/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="qvc" tvg-logo="https://www.underconsideration.com/brandnew/archives/qvc_2019_logo.png",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="space_shower" tvg-logo="https://www.spaceshowertv.com/howto/img/sstvogp.png",Space Shower TV-test
+#EXTINF:-1 group-title="日本語" tvg-id="space_shower" tvg-logo="https://www.spaceshowertv.com/howto/img/sstvogp.png",Space Shower TV
 http://luong.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
+#EXTINF:-1 group-title="日本語" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 http://luong.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2-test
+#EXTINF:-1 group-title="日本語" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
 http://luong.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3-test
+#EXTINF:-1 group-title="日本語" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
 http://luong.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4-test
+#EXTINF:-1 group-title="日本語" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
 http://luong.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="nhk_bsp4k" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/NHK-Logo.png",NHK BS4K-test
-http://luong.utako.moe/bsp4k_testsignal/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/fb.jpg",BS NTV-test
-http://luong.utako.moe/bsntva11/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="at-x" tvg-logo="https://www.at-x.com/images/common/logo.png",AT-X-test
-http://luong.utako.moe/at-x/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
+#EXTINF:-1 group-title="日本語" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo
 http://luong.utako.moe/pigoo/index.m3u8
