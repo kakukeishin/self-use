@@ -352,26 +352,26 @@ https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-id="MTV2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png",MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #日本語
+#EXTINF:-1 group-title="日本語" tvg-id="animax" tvg-logo="https://logodix.com/logo/442581.png",アニマックス(Animax)
+http://vthanh.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="fuji_tv" tvg-logo="https://www.fujitv.co.jp/company/img/fblogo.jpg",フジテレビ
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="tv_asahi" tvg-logo="https://encycolorpedia.com/companies/japan/tv-asahi.png",テレビ朝日
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="tv_tokyo" tvg-logo="https://qpbgm.sakura.ne.jp/sblo_files/qpbgm/image/TV_Tokyo_logo.png",テレビ東京
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="animax" tvg-logo="https://logodix.com/logo/442581.png",アニマックス(Animax)
-http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="日本語" tvg-id="ntv" tvg-logo="https://www.kindpng.com/picc/m/650-6501513_ntv-japan-nippon-television-network-system-hd-png.png",NTV
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="nhkg_tokyo" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/NHK-Logo.png",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1group-title="日本語" tvg-id="nhke_tokyo" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/NHK-Logo.png",NHK E
 http://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="nhk_bs" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/NHK-Logo.png",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="ntv" tvg-logo="https://www.kindpng.com/picc/m/650-6501513_ntv-japan-nippon-television-network-system-hd-png.png",NTV
-http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="日本語" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/fb.jpg",BS NTV
-http://luong.utako.moe/bsntva11/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="nhk_bsp4k" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/NHK-Logo.png",NHK BS4K
 http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+#EXTINF:-1 group-title="日本語" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/fb.jpg",BS NTV
+http://luong.utako.moe/bsntva11/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="tbs" tvg-logo="https://connected-robotics.com/wp-content/uploads/2019/04/TBS.jpg",TBS 
 http://vthanh.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="日本語" tvg-id="bs11" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/8/20810.jpg",BS11
