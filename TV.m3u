@@ -289,10 +289,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-id="taiwanplus" tvg-logo="TaiwanPlus.png",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-name="BBC" tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="BBC1.png",BBC
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="English" tvg-name="BBC" tvg-id="bbc" tvg-logo="BBC1.png",BBC 
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="English" tvg-name="BBC" tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="English" tvg-name="CNN" tvg-id="cnn" tvg-logo="CNN.png",CNN
 https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
 #EXTINF:-1 group-title="English" tvg-name="CNN" tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png",CNN
